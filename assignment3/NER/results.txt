@@ -1,0 +1,22 @@
+1. word2vec - batch learning, lr = 0.1, max_iteration = 500:
+accuracy = 0.4414088281765635
+precision no name = 0.9920190995907231
+recall no name = 0.34335969779246844
+precision name = 0.21299414244885254
+recall name = 0.9846938775510204
+                       Real class
+                        0        1
+Predicted class:  0 29086.000  234.000
+                  1 55624.000 15054.000
+
+2. random indexing - same configuration as 1
+
+accuracy = 0.1750235004700094
+precision no name = 0.9124441132637854
+recall no name = 0.028910400188879706
+precision name = 0.1546848346589391
+recall name = 0.9846284667713239
+                       Real class
+                        0        1
+Predicted class:  0 2449.000  235.000
+                  1 82261.000 15053.000

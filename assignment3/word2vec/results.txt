@@ -1,0 +1,29 @@
+1. trained on book 1: dim 50, window 2, lr 0.025 epochs 5
+
+Neighbors for Harry: [('Harry', 0.0), ('Ron', 0.24448769844318008), ('although', 0.2505832466208576), ('Hagrid', 0.25463849529003657), ('She', 0.2619859021579338)]
+Neighbors for Gryffindor: [('Gryffindor', 0.0), ('read', 0.28051973987622725), ('house', 0.2878209847305909), ('award', 0.29689783071985254), ('waiting', 0.31217321263190057)]
+Neighbors for chair: [('chair', 0.0), ('darkness', 0.2148655120927222), ('smile', 0.22842973155575608), ('results', 0.23689791899567614), ('breakfast', 0.241454967432701)]
+Neighbors for wand: [('wand', 0.0), ('hand', 0.1673970867778657), ('broomstick', 0.19726218468511958), ('broomsticks', 0.24167185438484318), ('pockets', 0.24632620897229518)]
+Neighbors for good: [('good', 0.0), ('theyre', 0.26252535190613036), ('yehd', 0.26737901396926744), ('reason', 0.2752513433269397), ('pleased', 0.27540618010632767)]
+Neighbors for enter: [('enter', 0.0), ('platform', 0.25519697736605806), ('mane', 0.2632131150436009), ('pressed', 0.26423042422084586), ('interfere', 0.2700173895644553)]
+Neighbors for on: [('on', 0.0), ('leaves', 0.2574074078881722), ('carried', 0.2979657062296345), ('pushed', 0.3147054636860288), ('headed', 0.31614480711035653)]
+Neighbors for school: [('school', 0.0), ('dungeons', 0.22339753206905288), ('sitting', 0.2250666891909573), ('field', 0.23391203080165368), ('corner', 0.24139553863545493)]
+
+2. uncorrected
+Neighbors for Harry: [('Harry', 0.0), ('Hagrid', 0.21410977342064064), ('please', 0.24525256396055994), ('Right', 0.24966656706980517), ('she', 0.253688
+1050288228)]
+Neighbors for Gryffindor: [('Gryffindor', 0.0), ('fifty', 0.2786157777289501), ('Slytherin', 0.31291703512159286), ('house', 0.3202025944402679), ('poin
+ts', 0.3224327361230269)]
+Neighbors for chair: [('chair', 0.0), ('spiral', 0.23241357102254645), ('bottle', 0.2402259803007849), ('squashy', 0.24514943793777377), ('ceiling', 0.2
+5692948911762026)]
+Neighbors for wand: [('wand', 0.0), ('hands', 0.23420225132357342), ('broom', 0.2500589616429746), ('hand', 0.25068172269609146), ('dinner', 0.253969164
+71692244)]
+Neighbors for good: [('good', 0.0), ('really', 0.26253516507634556), ('knowin', 0.29368432244572196), ('Its', 0.3009520493485984), ('stupid', 0.30208317
+586905586)]
+Neighbors for enter: [('enter', 0.0), ('instant', 0.29937402480894704), ('ball', 0.3068355298592722), ('HUFFLEPUFF', 0.3126595839237267), ('sapphires',
+0.32247219373655756)]
+Neighbors for on: [('on', 0.0), ('flung', 0.3067658908576133), ('buried', 0.32178073544743246), ('Slowly', 0.32390509986166427), ('over', 0.326106115093
+00746)]
+Neighbors for school: [('school', 0.0), ('end', 0.251403620836521), ('grounds', 0.2630003928618635), ('direction', 0.27052580570165397), ('sleeve', 0.27
+677955410813126)]
+
